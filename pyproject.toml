@@ -1,0 +1,31 @@
+[project]
+name = "advragudemy"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aiosqlite>=0.22.1",
+    "ddgs>=9.5.2",
+    "httpx>=0.28.1",
+    "langchain>=1.2.16",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.3.2",
+    "langchain-google-genai>=4.2.2",
+    "langchain-groq>=1.1.2",
+    "langchain-mcp-adapters>=0.2.2",
+    "langchain-ollama>=1.1.0",
+    "langchain-openai>=1.2.1",
+    "langgraph>=1.1.10",
+    "langgraph-checkpoint-postgres>=3.0.5",
+    "langgraph-checkpoint-sqlite>=3.0.3",
+    "markdown2>=2.5.5",
+    "psycopg>=3.3.3",
+    "psycopg-binary>=3.3.3",
+    "pydantic>=2.13.3",
+    "python-dotenv>=1.2.2",
+    "sqlalchemy>=2.0.49",
+    "transformers>=5.7.0",
+    "typing-extensions>=4.15.0",
+    "xhtml2pdf>=0.2.17",
+]

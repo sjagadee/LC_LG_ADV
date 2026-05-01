@@ -1,0 +1,34 @@
+# LangChain ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-groq
+langchain-ollama
+langchain-openai
+langgraph
+transformers
+
+# Utilities
+python-dotenv
+httpx
+markdown2
+xhtml2pdf
+
+# Core dependencies
+pydantic
+typing-extensions
+
+# Search tools
+ddgs>=9.5.2
+
+# Database / persistence
+psycopg
+psycopg-binary
+langgraph-checkpoint-sqlite
+langgraph-checkpoint-postgres
+aiosqlite
+sqlalchemy
+
+# MCP integration
+langchain_mcp_adapters
